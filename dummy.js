@@ -129,7 +129,7 @@ let DUMMY_CATEGORIES = [
         id: 1,
         category_enum: 1,
         category_name: 'Asia Cuisine',
-        category_img: '/assets/categories_img/asiancuisne.png',
+        category_img: '/assets/categories_img/asiancuisine.png',
     },{
         id: 2,
         category_enum: 2,
