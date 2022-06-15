@@ -7,7 +7,7 @@ let DUMMY_CHEFS = [
         work_hours_end: 21.5,
         menu_available : true,
         created_at : "20.01.2022",
-        rating : 4,
+        rating : 4.0,
         category_id: 1,
         locationable_id : 1,
         chef_img: '/assets/chef_img/hamburger1.png'
@@ -19,7 +19,7 @@ let DUMMY_CHEFS = [
         work_hours_end: 21.5,
         menu_available : true,
         created_at : "20.01.2022",
-        rating : 4,3,
+        rating : 4.3,
         category_id: 2,
         locationable_id : 2,
         chef_img: '/assets/chef_img/hamburger1.png'
@@ -31,7 +31,7 @@ let DUMMY_CHEFS = [
         work_hours_end: 21.5,
         menu_available : true,
         created_at : "20.01.2022",
-        rating : 3,9,
+        rating : 3.9,
         category_id: 3,
         locationable_id : 3,
         chef_img: '/assets/chef_img/hamburger1.png'
@@ -43,7 +43,7 @@ let DUMMY_CHEFS = [
         work_hours_end: 21.5,
         menu_available : true,
         created_at : "20.01.2022",
-        rating : 4,8,
+        rating : 4.8,
         category_id: 4,
         locationable_id : 2,
         chef_img: '/assets/chef_img/hamburger1.png'
@@ -55,7 +55,7 @@ let DUMMY_CHEFS = [
         work_hours_end: 21.5,
         menu_available : true,
         created_at : "20.01.2022",
-        rating : 4,1,
+        rating : 4.1,
         category_id: 5,
         locationable_id : 1,
         chef_img: '/assets/chef_img/hamburger1.png'
@@ -67,7 +67,7 @@ let DUMMY_CHEFS = [
         work_hours_end: 21.5,
         menu_available : true,
         created_at : "20.01.2022",
-        rating : 4,6,
+        rating : 4.6,
         category_id: 6,
         locationable_id : 2,
         chef_img: '/assets/chef_img/hamburger1.png'
@@ -79,7 +79,7 @@ let DUMMY_CHEFS = [
         work_hours_end: 21.5,
         menu_available : true,
         created_at : "20.01.2022",
-        rating : 3,5,
+        rating : 3.5,
         category_id: 7,
         locationable_id : 3,
         chef_img: '/assets/chef_img/hamburger1.png'
@@ -91,7 +91,7 @@ let DUMMY_CHEFS = [
         work_hours_end: 21.5,
         menu_available : true,
         created_at : "20.01.2022",
-        rating : 5,
+        rating : 5.0,
         category_id: 5,
         locationable_id : 1,
         chef_img: '/assets/chef_img/hamburger1.png'
@@ -103,7 +103,7 @@ let DUMMY_CHEFS = [
         work_hours_end: 21.5,
         menu_available : true,
         created_at : "20.01.2022",
-        rating : 3,3,
+        rating : 3.3,
         category_id: 8,
         locationable_id : 3,
         chef_img: '/assets/chef_img/hamburger1.png'
@@ -115,7 +115,7 @@ let DUMMY_CHEFS = [
         work_hours_end: 21.5,
         menu_available : true,
         created_at : "20.01.2022",
-        rating : 5,
+        rating : 5.0,
         category_id: 9,
         locationable_id : 2,
         chef_img: '/assets/chef_img/hamburger1.png'
