@@ -10,7 +10,7 @@ const otherRoutes = require("./routes/other-routes");
 
 const app = express();
 
-app.use(corse());
+app.use(cors());
 
 app.use(bodyParser.json());
 

@@ -129,47 +129,47 @@ let DUMMY_CATEGORIES = [
         id: 1,
         category_enum: 1,
         category_name: 'Asia Cuisine',
-        category_img: '/assets/categories_img/hamburger1.png',
+        category_img: '/assets/categories_img/asiancuisne.png',
     },{
         id: 2,
         category_enum: 2,
         category_name: 'Chicken',
-        category_img: '/assets/categories_img/hamburger1.png',
+        category_img: '/assets/categories_img/chicken.png',
     },{
         id: 3,
         category_enum: 3,
         category_name: 'Grill&Smokehouse',
-        category_img: '/assets/categories_img/hamburger1.png',
+        category_img: '/assets/categories_img/grill.png',
     },{
         id: 4,
         category_enum: 4,
         category_name: 'Pizza',
-        category_img: '/assets/categories_img/hamburger1.png',
+        category_img: '/assets/categories_img/pizza.png',
     },{
         id: 5,
         category_enum: 5,
         category_name: 'Burger&Sandwich',
-        category_img: '/assets/categories_img/hamburger1.png',
+        category_img: '/assets/categories_img/burger.png',
     },{
         id: 6,
         category_enum: 6,
         category_name: 'Deserts',
-        category_img: '/assets/categories_img/hamburger1.png',
+        category_img: '/assets/categories_img/desert.png',
     },{
         id: 7,
         category_enum: 7,
         category_name: 'Seafood',
-        category_img: '/assets/categories_img/hamburger1.png',
+        category_img: '/assets/categories_img/seafood.png',
     },{
         id: 8,
         category_enum: 8,
         category_name: 'Bakery',
-        category_img: '/assets/categories_img/hamburger1.png',
+        category_img: '/assets/categories_img/bakery.png',
     },{
         id: 9,
         category_enum: 9,
         category_name: 'Fine Dining',
-        category_img: '/assets/categories_img/hamburger1.png',
+        category_img: '/assets/categories_img/finedine.png',
     }
 ]
 
