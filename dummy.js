@@ -302,7 +302,17 @@ let DUMMY_LOCATIONS = [
     }
 ]
 
+let DUMMY_COMMENTS = [
+    {
+        id: 1,
+        name: 'Emre Demirel',
+        text: 'Lorem ipsum dolores yey',
+        img: '/assets/comments_img/asiancuisine.png',
+    },
+]
+
 exports.DUMMY_CHEFS = DUMMY_CHEFS;
 exports.DUMMY_CATEGORIES = DUMMY_CATEGORIES;
 exports.DUMMY_BANNERS = DUMMY_BANNERS;
 exports.DUMMY_LOCATIONS = DUMMY_LOCATIONS;
+exports.DUMMY_COMMENTS = DUMMY_COMMENTS;
