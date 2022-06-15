@@ -148,7 +148,7 @@ let DUMMY_CATEGORIES = [
     },{
         id: 5,
         category_enum: 5,
-        category_name: 'Hamburger&Sandwich',
+        category_name: 'Burger&Sandwich',
         category_img: '/assets/categories_img/hamburger1.png',
     },{
         id: 6,
