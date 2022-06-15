@@ -5,6 +5,7 @@ const categoriesRoutes = require('./routes/categories-routes');
 const chefsRoutes = require('./routes/chefs-routes');
 const locationsRoutes = require('./routes/locations-routes');
 const bannersRoutes = require('./routes/banners-routes');
+const otherRoutes = require('./routes/other-routes');
 
 const app = express();
 
@@ -15,6 +16,8 @@ app.use('/api/categories',categoriesRoutes);
 app.use('/api/chefs',chefsRoutes);
 app.use('/api/banners',bannersRoutes);
 app.use('/api/locations',locationsRoutes);
+app.use('/api/other',otherRoutes);
+
 
 
 app.use((error,req,res,next) => {
