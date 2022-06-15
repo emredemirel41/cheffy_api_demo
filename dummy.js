@@ -10,6 +10,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 2,
@@ -22,6 +23,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 3,
@@ -34,6 +36,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 4,
@@ -46,6 +49,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 5,
@@ -58,6 +62,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 6,
@@ -70,6 +75,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -82,6 +88,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -94,6 +101,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -106,6 +114,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -118,6 +127,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -130,6 +140,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -142,6 +153,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -154,6 +166,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -166,6 +179,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -178,6 +192,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -190,6 +205,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -202,6 +218,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -214,6 +231,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -226,6 +244,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     {
         id: 1,
@@ -238,6 +257,7 @@ let DUMMY_CHEFS = [
         rating : 4,
         category_id: 1,
         locationable_id : 1,
+        chef_img: '/assets/chefs_img/hambuger1.png',
     },
     
     
