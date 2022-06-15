@@ -10,9 +10,6 @@ const app = express();
 
 app.use(bodyParser.json());
 
-app.use('/',(req, res, next) => {
-    res.json({ message: 'Hello!' });
-});
 
 app.use('/api/categories',categoriesRoutes);
 app.use('/api/chefs',chefsRoutes);
