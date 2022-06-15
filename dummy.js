@@ -309,20 +309,30 @@ let DUMMY_COMMENTS = [
         text: 'It was fantastic experience. The meal was delicious and feel special to me.',
         img: '/assets/comments_img/comment2.png',
     },{
-        id: 1,
+        id: 2,
         name: 'Michelle Taylor',
         text: 'I was wondering quality of chefs on Cheffy. All meals were prepared for just me.',
         img: '/assets/comments_img/comment1.png',
     },{
-        id: 1,
+        id: 3,
         name: 'Joan Sebastion Bay',
         text: 'I just took photo and send the chef, same food that I took the photo delivered to me immediately.',
         img: '/assets/comments_img/comment3.png',
     },{
-        id: 1,
+        id: 4,
         name: 'Elaine Durden',
         text: 'The food was excellent and so was the service.  I had the mushroom risotto with scallops which was awesome.',
         img: '/assets/comments_img/comment4.png',
+    },{
+        id: 5,
+        name: 'Irene Adler',
+        text: 'We enjoyed the Eggs Benedict served on homemade focaccia bread and hot coffee.',
+        img: '/assets/comments_img/comment5.png',
+    },{
+        id: 6,
+        name: 'Colin James',
+        text: 'Great pizza, mozzarella sticks, calamari, chicken tenders, I could go on. Everything we’ve tried here has been amazing. The staff is always so friendly and accommodating.',
+        img: '/assets/comments_img/comment6.png',
     }
 ]
 
