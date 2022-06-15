@@ -9,8 +9,17 @@ let DUMMY_CHEFS = [
         created_at : "20.01.2022",
         rating : 4.0,
         category_id: 1,
-        locationable_id : 1,
-        chef_img: '/assets/chef_img/hamburger1.png'
+        chef_img: '/assets/chef_img/chefid-1.png',
+        location:
+            {
+                id: 1,
+                longtitude: 40.71789644487898,
+                latitude: -73.98051467461434,
+                full_address : '100 Industrial Rd, Carlstadt, NJ 07072',
+                city: 'Boston',
+                neighbourhood : 'Carlstadt',
+                street : '100 Industrial Rd',
+                Country : 'USA'}  
     },{
     	id: 2,
         name: 'Mark Buffalo Wings',
@@ -21,8 +30,17 @@ let DUMMY_CHEFS = [
         created_at : "20.01.2022",
         rating : 4.3,
         category_id: 2,
-        locationable_id : 2,
-        chef_img: '/assets/chef_img/hamburger1.png'
+        chef_img: '/assets/chef_img/chefid-2.png',
+        location:
+            {
+                id: 1,
+                longtitude: 40.71789644487898,
+                latitude: -73.98051467461434,
+                full_address : '100 Industrial Rd, Carlstadt, NJ 07072',
+                city: 'Boston',
+                neighbourhood : 'Carlstadt',
+                street : '100 Industrial Rd',
+                Country : 'USA'}  
     },{
     	id: 3,
         name: 'Texas Smoke House',
@@ -33,8 +51,17 @@ let DUMMY_CHEFS = [
         created_at : "20.01.2022",
         rating : 3.9,
         category_id: 3,
-        locationable_id : 3,
-        chef_img: '/assets/chef_img/hamburger1.png'
+        chef_img: '/assets/chef_img/chefid-3.png',
+        location:
+            {
+                id: 1,
+                longtitude: 40.71789644487898,
+                latitude: -73.98051467461434,
+                full_address : '100 Industrial Rd, Carlstadt, NJ 07072',
+                city: 'Boston',
+                neighbourhood : 'Carlstadt',
+                street : '100 Industrial Rd',
+                Country : 'USA'}  
     },{
     	id: 4,
         name: 'Binotto Pizza',
@@ -45,8 +72,17 @@ let DUMMY_CHEFS = [
         created_at : "20.01.2022",
         rating : 4.8,
         category_id: 4,
-        locationable_id : 2,
-        chef_img: '/assets/chef_img/hamburger1.png'
+        chef_img: '/assets/chef_img/chefid-4.png',
+        location:
+            {
+                id: 1,
+                longtitude: 40.71789644487898,
+                latitude: -73.98051467461434,
+                full_address : '100 Industrial Rd, Carlstadt, NJ 07072',
+                city: 'Boston',
+                neighbourhood : 'Carlstadt',
+                street : '100 Industrial Rd',
+                Country : 'USA'}  
     },{
     	id: 5,
         name: 'Bobs Burger',
@@ -57,8 +93,17 @@ let DUMMY_CHEFS = [
         created_at : "20.01.2022",
         rating : 4.1,
         category_id: 5,
-        locationable_id : 1,
-        chef_img: '/assets/chef_img/hamburger1.png'
+        chef_img: '/assets/chef_img/chefid-5.png',
+        location:
+            {
+                id: 1,
+                longtitude: 40.71789644487898,
+                latitude: -73.98051467461434,
+                full_address : '100 Industrial Rd, Carlstadt, NJ 07072',
+                city: 'Boston',
+                neighbourhood : 'Carlstadt',
+                street : '100 Industrial Rd',
+                Country : 'USA'}  
     },{
     	id: 6,
         name: 'Dianka Patisserie',
@@ -69,8 +114,17 @@ let DUMMY_CHEFS = [
         created_at : "20.01.2022",
         rating : 4.6,
         category_id: 6,
-        locationable_id : 2,
-        chef_img: '/assets/chef_img/hamburger1.png'
+        chef_img: '/assets/chef_img/chefid-6.png',
+        location:
+            {
+                id: 1,
+                longtitude: 40.71789644487898,
+                latitude: -73.98051467461434,
+                full_address : '100 Industrial Rd, Carlstadt, NJ 07072',
+                city: 'Boston',
+                neighbourhood : 'Carlstadt',
+                street : '100 Industrial Rd',
+                Country : 'USA'}  
     },{
     	id: 7,
         name: 'Seagull Mussels',
@@ -81,8 +135,17 @@ let DUMMY_CHEFS = [
         created_at : "20.01.2022",
         rating : 3.5,
         category_id: 7,
-        locationable_id : 3,
-        chef_img: '/assets/chef_img/hamburger1.png'
+        chef_img: '/assets/chef_img/chefid-7.png',
+        location:
+            {
+                id: 1,
+                longtitude: 40.71789644487898,
+                latitude: -73.98051467461434,
+                full_address : '100 Industrial Rd, Carlstadt, NJ 07072',
+                city: 'Boston',
+                neighbourhood : 'Carlstadt',
+                street : '100 Industrial Rd',
+                Country : 'USA'}  
     },{
     	id: 8,
         name: 'Katz Dellicatessen',
@@ -93,8 +156,17 @@ let DUMMY_CHEFS = [
         created_at : "20.01.2022",
         rating : 5.0,
         category_id: 5,
-        locationable_id : 1,
-        chef_img: '/assets/chef_img/hamburger1.png'
+        chef_img: '/assets/chef_img/chefid-8.png',
+        location:
+            {
+                id: 1,
+                longtitude: 40.71789644487898,
+                latitude: -73.98051467461434,
+                full_address : '100 Industrial Rd, Carlstadt, NJ 07072',
+                city: 'Boston',
+                neighbourhood : 'Carlstadt',
+                street : '100 Industrial Rd',
+                Country : 'USA'}  
     },{
     	id: 9,
         name: 'Bagel Shop',
@@ -105,8 +177,17 @@ let DUMMY_CHEFS = [
         created_at : "20.01.2022",
         rating : 3.3,
         category_id: 8,
-        locationable_id : 3,
-        chef_img: '/assets/chef_img/hamburger1.png'
+        chef_img: '/assets/chef_img/chefid-9.png',
+        location:
+            {
+                id: 1,
+                longtitude: 40.71789644487898,
+                latitude: -73.98051467461434,
+                full_address : '100 Industrial Rd, Carlstadt, NJ 07072',
+                city: 'Boston',
+                neighbourhood : 'Carlstadt',
+                street : '100 Industrial Rd',
+                Country : 'USA'}  
     },{
     	id: 10,
         name: 'Gordon Ramsay Hell Kitchen',
@@ -117,8 +198,17 @@ let DUMMY_CHEFS = [
         created_at : "20.01.2022",
         rating : 5.0,
         category_id: 9,
-        locationable_id : 2,
-        chef_img: '/assets/chef_img/hamburger1.png'
+        chef_img: '/assets/chef_img/chefid-10.png',
+        location:
+            {
+                id: 1,
+                longtitude: 40.71789644487898,
+                latitude: -73.98051467461434,
+                full_address : '100 Industrial Rd, Carlstadt, NJ 07072',
+                city: 'Boston',
+                neighbourhood : 'Carlstadt',
+                street : '100 Industrial Rd',
+                Country : 'USA'}  
     }
 
     
