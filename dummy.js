@@ -305,10 +305,25 @@ let DUMMY_LOCATIONS = [
 let DUMMY_COMMENTS = [
     {
         id: 1,
-        name: 'Emre Demirel',
-        text: 'Lorem ipsum dolores yey',
-        img: '/assets/comments_img/asiancuisine.png',
-    },
+        name: 'Jonathan Bell',
+        text: 'It was fantastic experience. The meal was delicious and feel special to me.',
+        img: '/assets/comments_img/comment2.png',
+    },{
+        id: 1,
+        name: 'Michelle Taylor',
+        text: 'I was wondering quality of chefs on Cheffy. All meals were prepared for just me.',
+        img: '/assets/comments_img/comment1.png',
+    },{
+        id: 1,
+        name: 'Joan Sebastion Bay',
+        text: 'I just took photo and send the chef, same food that I took the photo delivered to me immediately.',
+        img: '/assets/comments_img/comment3.png',
+    },{
+        id: 1,
+        name: 'Elaine Durden',
+        text: 'The food was excellent and so was the service.  I had the mushroom risotto with scallops which was awesome.',
+        img: '/assets/comments_img/comment4.png',
+    }
 ]
 
 exports.DUMMY_CHEFS = DUMMY_CHEFS;
