@@ -19,7 +19,7 @@ let DUMMY_CATEGORIES = [
         id: 1,
         category_enum: 1,
         category_name: 'Category 1',
-        category_img: '/assets/path.jpg',
+        category_img: '/assets/categories_img/hamburger1.png',
     },
 ]
 

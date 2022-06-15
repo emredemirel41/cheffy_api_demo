@@ -10,7 +10,7 @@ const app = express();
 
 app.use(bodyParser.json());
 
-
+app.use(express.static('public'));
 app.use('/api/categories',categoriesRoutes);
 app.use('/api/chefs',chefsRoutes);
 app.use('/api/banners',bannersRoutes);
