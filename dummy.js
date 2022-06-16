@@ -333,6 +333,26 @@ let DUMMY_COMMENTS = [
         name: 'Colin James',
         text: 'Great pizza, mozzarella sticks, calamari, chicken tenders, I could go on. Everything we’ve tried here has been amazing. The staff is always so friendly and accommodating.',
         img: '/assets/comments_img/comment6.png',
+    },{
+        id: 7,
+        name: 'Peter Parker',
+        text: 'The Food we had enjoyed at the time of dinner. It was really delicious taste with great quality, everything had unique taste.',
+        img: '/assets/comments_img/comment7.png',
+    },{
+        id: 8,
+        name: 'Rachel Green',
+        text: 'Good quantity served per portion. Service as also good.',
+        img: '/assets/comments_img/comment8.png',
+    },{
+        id: 9,
+        name: 'Chandler Bing',
+        text: 'It was a good experience with food lounge and we ordered food from there. Delicious and special.',
+        img: '/assets/comments_img/comment9.png',
+    },{
+        id: 10,
+        name: 'Teresa Alvardo',
+        text: 'Brilliant service from Michael. Made everyone feel at ease and was extremely attentive towards allergies and intolerances.',
+        img: '/assets/comments_img/comment10.png',
     }
 ]
 
