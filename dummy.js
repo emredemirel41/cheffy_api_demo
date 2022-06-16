@@ -19,7 +19,8 @@ let DUMMY_CHEFS = [
                 city: 'Boston',
                 neighbourhood : 'Carlstadt',
                 street : '100 Industrial Rd',
-                Country : 'USA'}  
+                Country : 'USA'},
+        category: 'Asian Cuisine' 
     },{
     	id: 2,
         name: 'Mark Buffalo Wings',
@@ -40,7 +41,8 @@ let DUMMY_CHEFS = [
                 city: 'Boston',
                 neighbourhood : 'Carlstadt',
                 street : '100 Industrial Rd',
-                Country : 'USA'}  
+                Country : 'USA'},
+        category: 'Chicken' 
     },{
     	id: 3,
         name: 'Texas Smoke House',
@@ -61,7 +63,8 @@ let DUMMY_CHEFS = [
                 city: 'Boston',
                 neighbourhood : 'Carlstadt',
                 street : '100 Industrial Rd',
-                Country : 'USA'}  
+                Country : 'USA'},
+        category: 'Grill&Smokehouse'  
     },{
     	id: 4,
         name: 'Binotto Pizza',
@@ -82,7 +85,8 @@ let DUMMY_CHEFS = [
                 city: 'Boston',
                 neighbourhood : 'Carlstadt',
                 street : '100 Industrial Rd',
-                Country : 'USA'}  
+                Country : 'USA'},
+        category: 'Pizza'  
     },{
     	id: 5,
         name: 'Bobs Burger',
@@ -103,7 +107,8 @@ let DUMMY_CHEFS = [
                 city: 'Boston',
                 neighbourhood : 'Carlstadt',
                 street : '100 Industrial Rd',
-                Country : 'USA'}  
+                Country : 'USA'},
+        category: 'Burger&Sandwich'  
     },{
     	id: 6,
         name: 'Dianka Patisserie',
@@ -124,7 +129,8 @@ let DUMMY_CHEFS = [
                 city: 'Boston',
                 neighbourhood : 'Carlstadt',
                 street : '100 Industrial Rd',
-                Country : 'USA'}  
+                Country : 'USA'},
+        category: 'Desert'  
     },{
     	id: 7,
         name: 'Seagull Mussels',
@@ -145,7 +151,8 @@ let DUMMY_CHEFS = [
                 city: 'Boston',
                 neighbourhood : 'Carlstadt',
                 street : '100 Industrial Rd',
-                Country : 'USA'}  
+                Country : 'USA'},
+        category: 'Seafood' 
     },{
     	id: 8,
         name: 'Katz Dellicatessen',
@@ -166,7 +173,8 @@ let DUMMY_CHEFS = [
                 city: 'Boston',
                 neighbourhood : 'Carlstadt',
                 street : '100 Industrial Rd',
-                Country : 'USA'}  
+                Country : 'USA'},
+        category: 'Burger&Sandwich' 
     },{
     	id: 9,
         name: 'Bagel Shop',
@@ -187,7 +195,8 @@ let DUMMY_CHEFS = [
                 city: 'Boston',
                 neighbourhood : 'Carlstadt',
                 street : '100 Industrial Rd',
-                Country : 'USA'}  
+                Country : 'USA'},
+        category: 'Bakery' 
     },{
     	id: 10,
         name: 'Gordon Ramsay Hell Kitchen',
@@ -208,10 +217,9 @@ let DUMMY_CHEFS = [
                 city: 'Boston',
                 neighbourhood : 'Carlstadt',
                 street : '100 Industrial Rd',
-                Country : 'USA'}  
-    }
-
-    
+                Country : 'USA'},
+        category: 'Fine Dining' 
+    }    
 ]
 
 let DUMMY_CATEGORIES = [
