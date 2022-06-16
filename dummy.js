@@ -266,9 +266,13 @@ let DUMMY_CATEGORIES = [
 let DUMMY_BANNERS = [
     {
         id: 1,
-        banner_img: '/assets/path.jpg',
+        banner_img: '/assets/banner1.png',
         banner_redirect: '/path',
-    },
+    },{
+        id: 2,
+        banner_img: '/assets/banner2.png',
+        banner_redirect: '/path',
+    }
 ]
 
 let DUMMY_LOCATIONS = [
